@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "media-pipeline-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "guinacio/claude-image-gen"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "media-pipeline@media-pipeline-marketplace": true
+  }
+}
